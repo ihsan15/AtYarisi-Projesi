@@ -1,0 +1,9 @@
+c:\users\ihsan\documents\visual studio 2015\Projects\AtYarışı\AtYarışı\bin\Debug\AtYarışı.exe.config
+c:\users\ihsan\documents\visual studio 2015\Projects\AtYarışı\AtYarışı\bin\Debug\AtYarışı.exe
+c:\users\ihsan\documents\visual studio 2015\Projects\AtYarışı\AtYarışı\bin\Debug\AtYarışı.pdb
+c:\users\ihsan\documents\visual studio 2015\Projects\AtYarışı\AtYarışı\obj\Debug\AtYarışı.Form1.resources
+c:\users\ihsan\documents\visual studio 2015\Projects\AtYarışı\AtYarışı\obj\Debug\AtYarışı.Properties.Resources.resources
+c:\users\ihsan\documents\visual studio 2015\Projects\AtYarışı\AtYarışı\obj\Debug\AtYarışı.csproj.GenerateResource.Cache
+c:\users\ihsan\documents\visual studio 2015\Projects\AtYarışı\AtYarışı\obj\Debug\AtYarışı.exe
+c:\users\ihsan\documents\visual studio 2015\Projects\AtYarışı\AtYarışı\obj\Debug\AtYarışı.pdb
+C:\Users\ihsan\documents\visual studio 2015\Projects\AtYarışı\AtYarışı\obj\Debug\AtYarışı.csprojResolveAssemblyReference.cache
